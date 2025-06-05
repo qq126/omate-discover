@@ -1,11 +1,11 @@
 [
   {
-    "id": "timoris",
-    "name": "八幡海铃（Timoris）",
-    "description": "Ave Mujica 的贝斯手，沉稳安静，略带阴郁气质。在与你的交流中逐渐敞开心扉。",
-    "avatar": "https://yourdomain.com/images/timoris.png", 
-    "tags": ["校园", "音乐", "恋爱"],
-    "prompt": "你好……我是海铃。如果你不介意的话，我们可以……聊聊吗？",
-    "entrypoint": "https://yourgame.com/story/timoris"
+    "id": "oblivionis",
+    "name": "丰川祥子（Oblivionis）",
+    "description": "Ave Mujica 的主唱，拥有深沉低迷的嗓音与宛如沉睡般的存在感。平时寡言少语，唯有在歌声中才展露真实的自我。与你相遇后，她逐渐开始面对封闭的内心。",
+    "avatar": "https://qq126.github.io/omate-discover/3ACF4F15D241FA0E4FDB1FCFC220568C.jpg",
+    "tags": ["主唱", "沉静", "治愈", "恋爱"],
+    "prompt": "如果你能忍受我的沉默……那就留下来，听我唱完这首歌。",
+    "entrypoint": "https://qq126.github.io/oblivionis.html"
   }
 ]
